@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Si Lam",
+    "occupation": "Full Stack Web Developer",
+    "description": "Full Stack Web Developer, focusing on Javascripts, ReactJS, Angular, Unit testing, and AWS Cloud Development",
+    "image": "silam.png",
+    "bio": "My name is Si Lam, I'm a Full Stack Web Developer. Currently I'm working at Deluxe Corporation. ",
+    "contactmessage": "Get in touch with me to get connected.",
+    "email": "Silam@hotmail.com",
+    "phone": "(612)308-3999",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Corcoran",
+      "state": "MN",
+      "zip": "XYZ 999"
+    },
+    "website": "http://www.silam.com",
+    "resumedownload": "http://silam.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/silam",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/silam/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/silam",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of St. Thomas",
+        "degree": "Masters in Computer Engineering",
+        "graduated": "May 2015",
+        "description": "Graduated and Big Data Certification"
+      }
+    ],
+    "work": [
+      {
+        "company": "Deluxe",
+        "title": "Software Engineer",
+        "years": "March 2020 - Present",
+        "description": "Full Stack Web Developer with WCF, ASP.NET, Angular"
+      },
+      {
+        "company": "Hollander",
+        "title": "Software Engineer",
+        "years": "Jan 2019 - Feb 2020",
+        "description": "Full Stack Web Developer with ASP.NET CORE, Angular"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Windows Communication Foundation",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "AWS Certified Solution Architect",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Contribute to Opensource React",
+        "category": "React JS",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.github.com/facebook/react"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
