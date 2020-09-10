@@ -26,7 +26,4 @@ Here is the link to download zip 👉
 - DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see
 
 
-## Credits
-
-#### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
