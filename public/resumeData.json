@@ -1,30 +1,30 @@
 {
   "main": {
     "name": "Si Lam",
-    "occupation": "Full Stack Web Developer",
+    "occupation": "Software Developer",
     "description": "Full Stack Web Developer, focusing on Javascripts, ReactJS, Angular, Unit testing, and AWS Cloud Development",
-    "image": "silam.png",
-    "bio": "My name is Si Lam, I'm a Full Stack Web Developer. Currently I'm working at Deluxe Corporation. ",
+    "image": "si1.jpg",
+    "bio": "My name is Si Lam, I'm a Software Engineer. Currently I'm working at Deluxe Corporation. ",
     "contactmessage": "Get in touch with me to get connected.",
     "email": "Silam@hotmail.com",
-    "phone": "(612)308-3999",
+    "phone": "(612)308-3370",
     "address": {
-      "street": "123 Fake Street",
+      "street": "19234 Paddock Lane",
       "city": "Corcoran",
       "state": "MN",
-      "zip": "XYZ 999"
+      "zip": "55340"
     },
-    "website": "http://www.silam.com",
-    "resumedownload": "http://silam.com",
+    "website": "http://www.silam.net",
+    "resumedownload": "http://silam.net",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/silam",
+        "url": "https://www.facebook.com/si.lam.50",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/silam/",
+        "url": "https://www.linkedin.com/in/si-lam-31a3aa1b/",
         "className": "fa fa-linkedin"
       },
       {
@@ -49,19 +49,31 @@
         "company": "Deluxe",
         "title": "Software Engineer",
         "years": "March 2020 - Present",
-        "description": "Full Stack Web Developer with WCF, ASP.NET, Angular"
+        "description": "Full Stack Web Developer with Windows Communiction Foundation, ASP.NET, Razor, Angular, Modern Javascripts, MS SQL, Bitbucket, SonarQube, Jenkin"
       },
       {
         "company": "Hollander",
         "title": "Software Engineer",
         "years": "Jan 2019 - Feb 2020",
-        "description": "Full Stack Web Developer with ASP.NET CORE, Angular"
+        "description": "Full Stack Web Developer with ASP.NET CORE, Angular, Modern Javascripts, MS SQL, SonarQube, TeamCity, Bitbuckets"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "AWS Certified Solution Architect",
         "level": "100%"
+      },
+      {
+        "name": "Modern Javascripts",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Angular",
+        "level": "90%"
       },
       {
         "name": "CSS",
@@ -76,6 +88,10 @@
         "level": "90%"
       },
       {
+        "name": "REST API",
+        "level": "90%"
+      },
+      {
         "name": "HTML5",
         "level": "80%"
       },
@@ -84,12 +100,32 @@
         "level": "80%"
       },
       {
-        "name": "AWS Certified Solution Architect",
-        "level": "100%"
+        "name": "ElasticSearch",
+        "level": "80%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "90%"
+      },
+      {
+        "name": "ASP.NET Core",
+        "level": "90%"
+      },
+      {
+        "name": "Docker Container",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
+    "achievements": [
+      {
+        "title": "AWS Certified Solution Architect",
+        "category": "AWS",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.github.com/facebook/react"
+      }
+    ],
     "projects": [
       {
         "title": "Contribute to Opensource React",

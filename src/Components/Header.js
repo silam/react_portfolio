@@ -26,7 +26,7 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#about">About</a></li>
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
+            {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
@@ -35,18 +35,24 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a <span>{occupation}</span>. {description}.</h3>
+            <p>
+               <h3><span>I'm a {occupation}; A {description}.</span></h3>
+
+            </p>
             <hr />
             <ul className="social">
                {networks}
             </ul>
+            <p>
+               <h3><span>My portfolio Web Site is written by using React, Modern Javascripts.</span></h3>
+            </p>
          </div>
       </div>
-
+     
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
-
+     
    </header>
     );
   }

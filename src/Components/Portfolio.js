@@ -21,6 +21,28 @@ class Portfolio extends Component {
           </div>
         </div>
       })
+
+
+
+      var achievements = this.props.data.achievements.map(function(achievements){
+        var achievementsImage = 'images/portfolio/'+achievements.image;
+        return <div key={achievements.title} className="columns portfolio-item">
+           <div className="item-wrap">
+            <a href={achievements.url} title={achievements.title}>
+               <img alt={achievements.title} src={achievementsImage} />
+               <div className="overlay">
+                  <div className="portfolio-item-meta">
+                 <h5>{achievements.title}</h5>
+                     <p>{achievements.category}</p>
+                  </div>
+                </div>
+              <div className="link-icon"><i className="fa fa-link"></i></div>
+            </a>
+          </div>
+        </div>
+      })
+
+
     }
 
     return (
@@ -29,6 +51,12 @@ class Portfolio extends Component {
       <div className="row">
 
          <div className="twelve columns collapsed">
+
+            <h1>Check Out Some of My Achievements.</h1>
+
+            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+              {achievements}
+            </div>
 
             <h1>Check Out Some of My Works.</h1>
 
