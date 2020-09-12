@@ -2,7 +2,7 @@
   "main": {
     "name": "Si Lam",
     "occupation": "Software Developer",
-    "description": "Full Stack Web Developer, focusing on Javascripts, ReactJS, Angular, Unit testing, and AWS Cloud Development",
+    "description": "Full Stack Web Developer, focusing on Javascripts, ReactJS, Angular, Unit testing, AWS Cloud Development, and Data Structure and Algorithtm",
     "image": "si1.jpg",
     "bio": "My name is Si Lam, I'm a Software Engineer. Currently I'm working at Deluxe Corporation. ",
     "contactmessage": "Get in touch with me to get connected.",
@@ -100,6 +100,14 @@
         "level": "80%"
       },
       {
+        "name": "PostgreSQL",
+        "level": "95%"
+      },
+      {
+        "name": "AWS DynamoDB",
+        "level": "90%"
+      },
+      {
         "name": "ElasticSearch",
         "level": "80%"
       },
@@ -115,6 +123,11 @@
         "name": "Docker Container",
         "level": "90%"
       }
+      ,
+      {
+        "name": "Data Structure and Algorithm",
+        "level": "90%"
+      }
     ]
   },
   "portfolio": {
@@ -122,16 +135,28 @@
       {
         "title": "AWS Certified Solution Architect",
         "category": "AWS",
-        "image": "whatsapp-mern.jpeg",
+        "image": "AWSCertifiedSolutionsArchitect.jpeg",
         "url": "https://www.github.com/facebook/react"
+      },
+      {
+        "title": "Toastmaster International Competent Communicator",
+        "category": "Toastmasters",
+        "image": "Toastmaster International Competent Communicator.jpeg",
+        "url": "https://www.toastmasters.com"
+      },
+      {
+        "title": "Big Data Certificate",
+        "category": "NoSQL",
+        "image": "bigdata cert.png",
+        "url": "https://www.stthomas.edu"
       }
     ],
     "projects": [
       {
-        "title": "Contribute to Opensource React",
+        "title": "Amazon Challenge - ReactJS",
         "category": "React JS",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.github.com/facebook/react"
+        "image": "Amazonchallenge.png",
+        "url": "https://www.github.com/silam"
       }
     ]
   },

@@ -44,7 +44,7 @@ class Header extends Component {
                {networks}
             </ul>
             <p>
-               <h3><span>My portfolio Web Site is written by using React, Modern Javascripts.</span></h3>
+               <h3><span>My portfolio Web Site is written by using React, Modern Javascripts, CSS, HTML5 and Netlify as the hosting</span></h3>
             </p>
          </div>
       </div>
