@@ -1,11 +1,11 @@
 #Si Lam Portfolio written in React      
 
 ## 👇 WATCH THIS FIRST 👇
-## https://serene-lichterman-2bac9f.netlify.app/
+## https://serverlessdeveloper.com
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-## <a href="https://serene-lichterman-2bac9f.netlify.app/">LIVE DEMO</a>
+## <a href="https://serverlessdeveloper.com/">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website written using React
