@@ -148,7 +148,13 @@
         "title": "Big Data Certificate",
         "category": "NoSQL",
         "image": "bigdata cert.png",
-        "url": "https://www.stthomas.edu"
+        "url": "https://silamachievements.s3-us-west-2.amazonaws.com/bigdata+cert.png"
+      },
+      {
+        "title": "Leadership Development for Engineers",
+        "category": "Leadership",
+        "image": "leadership.jpg",
+        "url": "https://silamachievements.s3-us-west-2.amazonaws.com/leadership.jpg"
       }
     ],
     "projects": [
