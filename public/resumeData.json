@@ -176,8 +176,14 @@
         "category": ".NET CORE, Microservices",
         "image": "ecommernetcoremicroservice.png",
         "url": "https://github.com/silam/Ecommerce_AspNetCore_Container_Microservice"
-      }
+      },
 
+      {
+        "title": "Exercise Log - MERN Stack",
+        "category": "MERN stack",
+        "image": "exercise.png",
+        "url": "https://github.com/silam/Mern_stack_exercise_tracker"
+      }
     ]
   },
   "testimonials": {
