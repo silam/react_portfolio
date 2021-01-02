@@ -163,6 +163,12 @@
         "category": "React JS",
         "image": "Amazonchallenge.png",
         "url": "https://github.com/silam/amazon-challenge-final"
+      },
+      {
+        "title": "Personal Portfolio - ReactJS",
+        "category": "React JS",
+        "image": "header-background.jpeg",
+        "url": "https://github.com/silam/react_portfolio"
       }
     ]
   },
