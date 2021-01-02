@@ -3,7 +3,7 @@
 ## 👇 WATCH THIS FIRST 👇
 ## https://serverlessdeveloper.com
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](header-background.jpeg?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://serverlessdeveloper.com/">LIVE DEMO</a>
 
