@@ -8,12 +8,17 @@
 ## <a href="https://serverlessdeveloper.com/">LIVE DEMO</a>
 
 ## Description
-This is a ReactJS based personal resume website written using React
+This is a ReactJS based personal portfolio website written using React
+
+#### DEPLOYMENT:
+This portfolio is deployed and hosted on Netlify.com 
+with domain name serverlessdeveloper.com I pay yearly
 
 ## Make it Your Own!
 #### PREREQUISITES:
 - Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
 Here is the link to download zip 👉
