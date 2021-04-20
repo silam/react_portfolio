@@ -7,15 +7,15 @@
     "bio": "My name is Si Lam, I'm a Software Engineer. Currently I'm working at Deluxe Corporation. ",
     "contactmessage": "Get in touch with me to get connected.",
     "email": "Silam@hotmail.com",
-    "phone": "(612)308-3370",
+    "phone": "(NNN)NNN-NNNN",
     "address": {
-      "street": "19234 Paddock Lane",
-      "city": "Corcoran",
+      "street": "Street",
+      "city": "City",
       "state": "MN",
-      "zip": "55340"
+      "zip": "NNNN"
     },
-    "website": "http://www.silam.net",
-    "resumedownload": "http://silam.net",
+    "website": "http://serverlessdeveloper.com",
+    "resumedownload": "http://serverlessdeveloper.com",
     "social": [
       {
         "name": "facebook",
@@ -46,10 +46,16 @@
     ],
     "work": [
       {
+        "company": "Red Wing Shoes",
+        "title": "Senior Software Engineer",
+        "years": "Jan 2021 - Present",
+        "description": "Full Stack Web Developer with Angular, React, ASP.NET, Razor, Modern Javascripts, MS SQL, Bitbucket, TFS, SonarQube, Azure DevOps, Azure Functions, Service Bus, Topic, Queue, Azure App Service, Moq Framwork"
+      },
+      {
         "company": "Deluxe",
-        "title": "Software Engineer",
-        "years": "March 2020 - Present",
-        "description": "Full Stack Web Developer with Windows Communiction Foundation, ASP.NET, Razor, Angular, Modern Javascripts, MS SQL, Bitbucket, SonarQube, Jenkin"
+        "title": "Software Engineer IV",
+        "years": "March 2020 - Dec 2020",
+        "description": "Full Stack Web Developer with Angular, React, ASP.NET, Razor, Modern Javascripts, MS SQL, Bitbucket, SonarQube"
       },
       {
         "company": "Hollander",
@@ -128,21 +134,37 @@
         "name": "Data Structure and Algorithm",
         "level": "90%"
       }
+      ,
+      {
+        "name": "Azure Serverless Functions",
+        "level": "90%"
+      }
+      ,
+      {
+        "name": "Azure DevOps",
+        "level": "90%"
+      }
     ]
   },
   "portfolio": {
     "achievements": [
       {
+        "title": "Microsoft Azure Certified Administrator Associate",
+        "category": "Azure",
+        "image": "AzureAdministratorAssociate.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20Administrator%20Associate.png"
+      },
+      {
         "title": "AWS Certified Solution Architect",
         "category": "AWS",
         "image": "AWSCertifiedSolutionsArchitect.jpeg",
-        "url": "https://www.github.com/facebook/react"
+        "url": "https://silamachievement.blob.core.windows.net/images/AWSCertifiedSolutionsArchitect.jpeg"
       },
       {
         "title": "Toastmaster International Competent Communicator",
         "category": "Toastmasters",
         "image": "Toastmaster International Competent Communicator.jpeg",
-        "url": "https://www.toastmasters.com"
+        "url": "https://silamachievement.blob.core.windows.net/images/Toastmaster%20International%20Competent%20Communicator.jpeg"
       },
       {
         "title": "Big Data Certificate",
