@@ -6,6 +6,7 @@
     "image": "si1.jpg",
     "bio": "My name is Si Lam, I'm a Software Engineer. Currently I'm working at Deluxe Corporation. ",
     "contactmessage": "Get in touch with me to get connected.",
+
     "email": "Silam@hotmail.com",
     "phone": "(NNN)NNN-NNNN",
     "address": {
@@ -13,6 +14,7 @@
       "city": "City",
       "state": "MN",
       "zip": "NNNN"
+
     },
     "website": "http://serverlessdeveloper.com",
     "resumedownload": "http://serverlessdeveloper.com",
