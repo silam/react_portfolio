@@ -43,6 +43,24 @@ class Portfolio extends Component {
       })
 
 
+      var courses = this.props.data.courses.map(function(courses){
+        var coursesImage = 'images/portfolio/'+courses.image;
+        return <div key={courses.title} className="columns portfolio-item">
+           <div className="item-wrap">
+            <a href={courses.url} title={courses.title}>
+               <img alt={courses.title} src={coursesImage} width="500" height="600"  />
+               <div className="overlay">
+                  <div className="portfolio-item-meta">
+                 <h5>{courses.title}</h5>
+                     <p>{courses.category}</p>
+                  </div>courses
+                </div>
+              <div className="link-icon"><i className="fa fa-link"></i></div>
+            </a>
+          </div>
+        </div>
+      })
+
     }
 
     return (
@@ -52,17 +70,30 @@ class Portfolio extends Component {
 
          <div className="twelve columns collapsed">
 
+            {/* Achievements */}
             <h1>Check Out Some of My Achievements.</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {achievements}
             </div>
 
+            {/* Projects */}
             <h1>Check Out Some of My Works.</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
             </div>
+
+
+            {/* Courses */}
+            <h1>Check Out Some of My Courses.</h1>
+
+            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+                {courses}
+            </div>
+
+
+
           </div>
       </div>
    </section>

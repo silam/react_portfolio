@@ -168,6 +168,12 @@
   "portfolio": {
     "achievements": [
       {
+        "title": "Microsoft Certified Azure Developer Associate",
+        "category": "Azure",
+        "image": "az204 certificate.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20Administrator%20Associate.png"
+      },
+      {
         "title": "Microsoft Azure Certified Administrator Associate",
         "category": "Azure",
         "image": "AzureAdministratorAssociate.png",
@@ -230,6 +236,25 @@
         "category": "MERN stack",
         "image": "exercise.png",
         "url": "https://github.com/silam/Mern_stack_exercise_tracker"
+      }
+    ],
+    "courses": [
+      {
+        "title": "LeetCode Data Structures and Algorithms in Java",
+        "category": "Courses",
+        "image": "LeetCode in Java Algorithms Coding Interview Questions.jpg",
+        "url": "https://silamachievement.blob.core.windows.net/images/Leetcode in Java Algorithms.jpg"
+      },{
+        "title": "AWS Certified DevOps Engineer Professional 2022",
+        "category": "Courses",
+        "image": "AWS Certified DevOps Engineer Professional 2022.jpg",
+        "url": "https://silamachievement.blob.core.windows.net/images/AWS Certified DevOps Engineer Professional 2022.jpg"
+      }
+      ,{
+        "title": "Ultimate AWS Certified Developer Associate 2022",
+        "category": "Courses",
+        "image": "Ultimate AWS Certified Developer Associate 2022.jpg",
+        "url": "https://silamachievement.blob.core.windows.net/images/AWS Certified DevOps Engineer Professional 2022.jpg"
       }
     ]
   },
