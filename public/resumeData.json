@@ -68,6 +68,10 @@
     ],
     "skills": [
       {
+        "name": "Microsoft Azure Certified Devops Expert",
+        "level": "100%"
+      },
+      {
         "name": "Microsoft Azure Certified Administrator Associate",
         "level": "100%"
       },
@@ -167,6 +171,12 @@
   },
   "portfolio": {
     "achievements": [
+      {
+        "title": "Microsoft Certified: Azure DevOps Engineer Expert",
+        "category": "Azure",
+        "image": "az400.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/az400.png"
+      },
       {
         "title": "Microsoft Certified Azure Developer Associate",
         "category": "Azure",
