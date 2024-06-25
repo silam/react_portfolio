@@ -172,22 +172,72 @@
   "portfolio": {
     "achievements": [
       {
+        "title": "Microsoft Certified: Azure Data Scientist Associate",
+        "category": "Azure",
+        "image": "Azure Data Scientist Associate - Feb -2025.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20Data%20Scientist%20Associate%20-%20Feb%20-2025.png"
+      },
+      {
         "title": "Microsoft Certified: Azure DevOps Engineer Expert",
         "category": "Azure",
-        "image": "az400.png",
-        "url": "https://silamachievement.blob.core.windows.net/images/az400.png"
+        "image": "Azure DevOps Engineer Expert - Aug - 2024.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20DevOps%20Engineer%20Expert%20-%20Aug%20-%202024.png"
       },
       {
         "title": "Microsoft Certified Azure Developer Associate",
         "category": "Azure",
-        "image": "az204 certificate.png",
-        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20Administrator%20Associate.png"
+        "image": "Azure Developer Associate - Mar - 2025.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20Developer%20Associate%20-%20Mar%20-%202025.png"
       },
       {
         "title": "Microsoft Azure Certified Administrator Associate",
         "category": "Azure",
-        "image": "AzureAdministratorAssociate.png",
-        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20Administrator%20Associate.png"
+        "image": "Azure Administrator Associate - Mar - 2025.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20Administrator%20Associate%20-%20Mar%20-%202025.png"
+      },
+
+
+
+      {
+        "title": "Microsoft Certified: Azure AI Engineer Associate",
+        "category": "Azure",
+        "image": "Azure AI Engineer Associate - June - 2025.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure%20AI%20Engineer%20Associate%20-%20June%20-%202025.png"
+      },
+      {
+        "title": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+        "category": "Azure",
+        "image": "Azure Cosmos DB Developer Specialty - Sep - 2024.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure Cosmos DB Developer Specialty - Sep - 2024.png"
+      },
+
+
+
+
+      {
+        "title": "Microsoft Certified Azure AI Fundamentals",
+        "category": "Azure",
+        "image": "Azure Fundamentals.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure AI Fundamentals.png"
+      },
+
+
+
+      {
+        "title": "Microsoft Azure Data Fundamentals",
+        "category": "Azure",
+        "image": "Azure Data Fundamentals.png",
+        "url": "https://silamachievement.blob.core.windows.net/images/Azure Data Fundamentals.png"
+      },
+
+
+
+      
+      {
+        "title": "AWS Certified Developer Associate",
+        "category": "AWS",
+        "image": "AWS DEVELOPER.jpg",
+        "url": "https://silamachievement.blob.core.windows.net/images/AWS%20DEVELOPER.jpg"
       },
       {
         "title": "AWS Certified Solution Architect",
