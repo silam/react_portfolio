@@ -68,6 +68,33 @@
     ],
     "skills": [
       {
+        "name": "Microsoft AI Engineer Associate",
+        "level": "100%"
+      },
+      {
+        "name": "Microsoft Data Scientist Associate",
+        "level": "100%"
+      },
+      {
+        "name": "Microsoft Azure Data Fundamentals",
+        "level": "100%"
+      },
+
+      {
+        "name": "Microsoft Cosmos DB Developer Specialty",
+        "level": "100%"
+      },
+      {
+        "name": "Microsoft Azure Certified Developer Associate",
+        "level": "100%"
+      },
+
+
+
+
+
+
+      {
         "name": "Microsoft Azure Certified Devops Expert",
         "level": "100%"
       },
@@ -79,6 +106,12 @@
         "name": "AWS Certified Solution Architect",
         "level": "100%"
       },
+
+      {
+        "name": "AWS Certified Developer Associate",
+        "level": "100%"
+      },
+
       {
         "name": "Modern Javascripts",
         "level": "90%"
